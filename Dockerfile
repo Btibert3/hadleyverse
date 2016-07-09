@@ -139,6 +139,7 @@ RUN install2.r --error \
     rJava \
     roxygen2 \
     RMySQL \
+    RNeo4j \
     RPostgreSQL \
     RSQLite \
     testit \
